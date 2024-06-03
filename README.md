@@ -6,6 +6,8 @@ To set up the project in your local environment, please follow these steps:
 2. Run 'php artisan migrate'
 3. Finally run 'php artisan serve' or navigate to the base URL for the output.
 
+For accessing the admin panel for teachers, please visit http://base_url/teacher
+
 
 This project involves:-
 
